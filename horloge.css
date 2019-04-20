@@ -1,0 +1,22 @@
+.aiguille
+{
+    position: absolute;
+    bottom: 283px;
+    -moz-transform-origin: bottom center;
+    -webkit-transform-origin: bottom center;
+    -o-transform-origin: bottom center;
+    -ms-transform-origin: bottom center;
+    transform-origin: bottom center;
+}
+#horloge
+{
+    position: relative;
+    height: 567px;
+    width: 567px;
+    border: 1px solid black;
+    -moz-border-radius: 284px;
+    -webkit-border-radius: 284px;
+    -o-border-radius: 284px;
+    -ms-border-radius: 284px;
+    border-radius: 284px;
+}
